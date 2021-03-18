@@ -28,7 +28,6 @@ public class Playlist {
 		list.removeAll(listToMove);
 		add(list,listToMove,index);
 		}
-    System.out.println(list);
 		return list;
 	}
 
